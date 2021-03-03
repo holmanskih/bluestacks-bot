@@ -1,0 +1,7 @@
+app: 'mac'  # windows mac
+
+windows:
+  path: 'C:\ProgramFiles\BlueStacks\Bluestacks.exe'
+
+mac:
+  path: '/Applications/BlueStacks.app'
