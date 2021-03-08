@@ -5,3 +5,9 @@ windows:
 
 mac:
   path: '/Applications/BlueStacks.app'
+
+actions:
+  - x: 1373
+    y: 516
+    type: double_click
+    name: "Open folder"

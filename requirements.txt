@@ -10,3 +10,6 @@ pipreqs~=0.4.10
 urllib3~=1.26.3
 idna~=2.10
 setuptools~=53.0.0
+pynput==1.7.3
+PyAutoGUI==0.9.52
+PyYAML==5.4.1
